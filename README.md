@@ -1,6 +1,6 @@
 # Monica Seafood
 
-A responsive React storefront for Monica’s dried seafood and Nigerian pantry selection. Cream, forest teal and terracotta colours, self-hosted typography, illustrative food imagery, product filters and a WhatsApp enquiry basket.
+A responsive React storefront for Monica’s dried seafood and Nigerian pantry selection. Cream, forest teal and terracotta colours, self-hosted typography, clean photo placeholders, product filters and a WhatsApp enquiry basket.
 
 ## Run locally
 
@@ -37,11 +37,11 @@ Public sources consulted:
 - [Published WhatsApp contact and Sangotedo location](https://www.facebook.com/mngu.monica/videos/for-more-details-click-on-the-bio-to-chat-directly-on-our-whatsapp-or-c/1647522763467287/)
 - [Seafood post mentioning crayfish and prawns](https://www.facebook.com/mngu.monica/videos/you-see-crayfish-price-is-high-prawns-too-is-costly-but-because-we-have-the-inte/1429869502588026/)
 
-Prices, inventory, pack sizes, opening hours, reviews, ratings and shipping guarantees have intentionally not been invented. Confirm the current catalogue and replace illustrative images with the business’s own product photographs when available.
+Prices, inventory, pack sizes, opening hours, reviews, ratings and shipping guarantees have intentionally not been invented. Confirm the current catalogue and replace photo placeholders with the business’s own product photographs when available.
 
 ## Assets and accessibility
 
-- Food images: generated with the built-in Imagegen tool, optimized as WebP, clearly described as illustrative in the catalogue and FAQ. The image briefs are in `ASSETS.md`.
+- Image areas: lightweight SVG placeholders, with no AI-generated images. Replace the files in `public/images/` with real business photography when available. See `ASSETS.md`.
 - Fonts: DM Sans and Instrument Serif via Fontsource (SIL Open Font License).
 - Icons: Lucide (ISC license).
 - Keyboard navigation, visible focus rings, skip link, accessible filter buttons, live basket feedback, dialog focus management, Escape-to-close and reduced-motion support.
